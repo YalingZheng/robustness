@@ -1,0 +1,7 @@
+
+
+Error: Unable to open file "1EGL.pdb"
+Assertion of "f != NULL" faild.
+file "pdbIO.cpp" line 369
+<Timing tag = "Scwrl4_Execution"  duration = "0.000" />
+
